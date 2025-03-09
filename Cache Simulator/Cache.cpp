@@ -1,6 +1,4 @@
 /* Name: Aaron Cohen
- * FSUID: ajc17d
- * Assignment: 3
  */
 
 #include <iostream>
